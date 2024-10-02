@@ -1,3 +1,24 @@
+# Data Diri
+
+|  |  |
+|--|--|
+| NIM | *22104410112* |
+| Nama Lengkap | *Muhammad Nurifqi Praulan* |
+| Kelas | TI-5B |
+| Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
+| Matakuliah | -Pemrograman API- |
+
+# Pemrograman API
+
+| Pengumpulan Tugas Pemrograman API |
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
